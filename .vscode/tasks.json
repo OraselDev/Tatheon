@@ -9,7 +9,7 @@
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+                "${fileDirname}\\Tatheon.exe"
             ],
             "options": {
                 "cwd": "${fileDirname}"

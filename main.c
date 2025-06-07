@@ -1,9 +1,12 @@
 #include <cstdlib>
 #include <cstdio>
+#include <Windows.h>
+#include <winnt.h>
+#include "main.h"
 
 int main()
-{
-    printf("Hello Reader\n");
+{   
+    printHelloBasic();
     
     system("pause");
 
